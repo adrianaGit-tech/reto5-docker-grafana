@@ -1,0 +1,4 @@
+NAMES          STATUS          PORTS
+grafana        Up 5 minutes    0.0.0.0:3001->3000/tcp, [::]:3001->3000/tcp
+test-metrics   Up 17 minutes   0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp
+prometheus     Up 18 minutes   0.0.0.0:9090->9090/tcp, [::]:9090->9090/tcp
